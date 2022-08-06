@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "name": "Eduardo",
-      "budget": "454545",
+      "name": "Instagram",
+      "budget": "10000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -10,6 +10,35 @@
       "cost": 0,
       "services": [],
       "id": 1
+    },
+    {
+      "name": "Facebook",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Whatsapp",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "ser",
+          "cost": "500",
+          "description": "lkjhkj",
+          "id": "7be2fd14-7868-445c-803c-9693da86be4a"
+        }
+      ],
+      "id": 3
     }
   ],
   "categories": [
